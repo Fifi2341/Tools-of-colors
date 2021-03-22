@@ -42,7 +42,7 @@ namespace ColorSwords.Items.Accessories.TitanShields
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(mod, "RainbowShield");
 			recipe.AddIngredient(mod, "OldGem", 1);
-			recipe.AddTile(mod.GetTile("ColorBench"));
+			recipe.AddTile(mod.GetTile("UltimaAnvil"));
 			recipe.SetResult(this);
 			recipe.AddRecipe();
 		}

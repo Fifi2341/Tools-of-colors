@@ -1,0 +1,29 @@
+Tools of Colors
+
+Tools of Colors (ToC) is a content mod adding various weapons, tools, armors and other stuff to game.
+
+(1.2: The Aftermath update)
+
+-Added config file! 
+-Fixed bugs
+-Added new items, including new armor set!
+-Changed icon
+
+(1.1.2: Easter 2021)
+
+Happy Easter 2021!
+
+Small update, adding 1 new easter wepon
+
+1.2 soon ;D
+
+
+(1.1: Wrestler update)
+
+Full changelog is on mod's homepage
+
+Main changes;
+-New stuff
+-2 new bosses
+-Bug fixes
+-Ultima gear rebalance

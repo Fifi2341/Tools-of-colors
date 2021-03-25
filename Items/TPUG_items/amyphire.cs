@@ -1,6 +1,6 @@
 using Terraria.ID;
 using Terraria.ModLoader;
-using TPUG.Tiles;
+using ColorSwords.Tiles;
 
 namespace Colorswords.Items.TPUG_items
 {

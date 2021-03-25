@@ -3,7 +3,7 @@ using Terraria;
 using Terraria.ModLoader;
 using static Terraria.ModLoader.ModContent;
 using Terraria.ID;
-using TPUG.Items;
+using ColorSwords.TPUG_items;
 
 namespace Colorswords.Items.Armors.TPUGarmor
 {

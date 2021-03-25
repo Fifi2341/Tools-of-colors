@@ -4,7 +4,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using static Terraria.ModLoader.ModContent;
 
-namespace Colorswords.Items.Armors.TPUGarmor
+namespace ColorSwords.Items.Armors.TPUGarmor
 {
 	[AutoloadEquip(EquipType.Head)]
 	public class amyphireH : ModItem

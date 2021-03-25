@@ -5,18 +5,20 @@ using Terraria.ModLoader;
 using ColorSwords.Items.TPUG_items;
 using static Terraria.ModLoader.ModContent;
 
-namespace Colorswords.Items.Armors.TPUGarmor
+namespace ColorSwords.Items.Armors.TPUGarmor
 {
 	[AutoloadEquip(EquipType.Head)]
-	public class RedcandycanearmorH : ModItem
+	public class GreencandycanearmorH : ModItem
 	{
-		public override void SetStaticDefaults() {
+		public override void SetStaticDefaults()
+		{
 			base.SetStaticDefaults();
 			DisplayName.SetDefault("Red candy cane Headgear");
 			Tooltip.SetDefault("feeling sticky yet?");
 		}
 
-		public override void SetDefaults() {
+		public override void SetDefaults()
+		{
 			item.width = 18;
 			item.height = 18;
 			item.value = 10000;
@@ -30,13 +32,13 @@ namespace Colorswords.Items.Armors.TPUGarmor
 
 		public override void UpdateArmorSet(Player player)
 		{
-			player.setBonus = "The red spirit of the armor enhances your melee combat ability";
-			player.meleeDamageMult =+ 2;
+			player.setBonus = "The red christmas spirit greatly increases your melee ability";
+			player.meleeDamageMult = +2;
 		}
 		public override void AddRecipes()
 		{
 			ModRecipe recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemID.CandyCaneBlock, 25);
+			recipe.AddIngredient(ItemID.RedCandyCaneBlock, 25);
 			recipe.AddIngredient(ModContent.ItemType<SoulOfChristmas>(), 1);
 			recipe.AddTile(TileID.Anvils);
 			recipe.SetResult(this);

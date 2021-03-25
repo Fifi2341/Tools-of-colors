@@ -33,7 +33,7 @@ namespace ColorSwords.Npcs.TPUGnpcs
 		}
 		public override float SpawnChance(NPCSpawnInfo spawnInfo)
 		{
-			return SpawnCondition.OverworldNightMonster.Chance * 1.5f;
+			return SpawnCondition.OverworldNightMonster.Chance * 0.5f;
 		}
 		public override void OnHitPlayer(Player player, int damage, bool crit)
 		{

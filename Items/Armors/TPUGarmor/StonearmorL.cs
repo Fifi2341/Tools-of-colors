@@ -1,4 +1,4 @@
-using ColorSwords.TPUG_items;
+using ColorSwords.Items.TPUG_items;
 using Terraria;
 using Terraria.ModLoader;
 using static Terraria.ModLoader.ModContent;

@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace ColorsSwords.Items.TPUG_items
+namespace ColorSwords.Items.TPUG_items
 {
 	public class BATNOTFOUND: ModItem
 	{

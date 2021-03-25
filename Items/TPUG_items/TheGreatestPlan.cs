@@ -1,7 +1,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Colorswords.Items.TPUG_items
+namespace ColorSwords.Items.TPUG_items
 {
 	public class TheGreatestPlan: ModItem
 	{
@@ -24,13 +24,6 @@ namespace Colorswords.Items.TPUG_items
 			item.UseSound = SoundID.Item1;
 		}
 
-		public override void AddRecipes() 
-		{
-			ModRecipe recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemID.Wood, 40);
-			recipe.AddTile(TileID.Anvils);
-			recipe.SetResult(this);
-			recipe.AddRecipe();
-		}
+		
 	}
 }

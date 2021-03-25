@@ -2,7 +2,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using ColorSwords.Tiles;
 
-namespace Colorswords.Items.TPUG_items
+namespace ColorSwords.Items.TPUG_items
 {
 	public class Superfire: ModItem
 	{

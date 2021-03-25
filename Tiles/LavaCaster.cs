@@ -4,9 +4,9 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using Terraria.ObjectData;
-using TPUG.Items;
+using ColorSwords.Items.TPUG_Items;
 
-namespace Colorswords.Tiles
+namespace ColorSwords.Tiles
 {
 	public class LavaCaster: ModTile
 	{

@@ -2,7 +2,7 @@ using Microsoft.Xna.Framework;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Colorswords.Items.TPUG_items
+namespace ColorSwords.Items.TPUG_items
 {
 	public class NULL_BLOWPIPE : ModItem
 	{

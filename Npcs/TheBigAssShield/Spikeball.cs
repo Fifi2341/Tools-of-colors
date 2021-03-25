@@ -5,7 +5,7 @@ using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
 using ColorSwords.Projectiles;
 
-namespace Colorswords.Npcs.TheBigAssShield
+namespace ColorSwords.Npcs.TheBigAssShield
 {
 	public class Spikeball : ModNPC
 	{

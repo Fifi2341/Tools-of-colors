@@ -5,7 +5,7 @@ using ColorSwords.Tiles;
 using ColorSwords.Items;
 using ColorSwords;
 
-namespace Colorswords.Npcs.TheBigAssShield
+namespace ColorSwords.Npcs.TheBigAssShield
 {
 	public class Susthimng: ModItem
 	{

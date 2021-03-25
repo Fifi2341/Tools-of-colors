@@ -4,7 +4,7 @@ using Terraria.ModLoader;
 using ColorSwords.Tiles;
 using ColorSwords.Items;
 
-namespace Colorswords.Npcs.TheBigAssShield
+namespace ColorSwords.Npcs.TheBigAssShield
 {
 	public class TBASTeasureBag: ModItem
 	{

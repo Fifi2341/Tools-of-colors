@@ -4,7 +4,7 @@ using Terraria.ModLoader;
 
 using Microsoft.Xna.Framework;
 
-namespace Colorswords.Npcs.TPUGnpcs
+namespace ColorSwords.Npcs.TPUGnpcs
 {
 	public class succfish : ModNPC
 	{

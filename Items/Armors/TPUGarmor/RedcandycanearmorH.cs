@@ -8,7 +8,7 @@ using static Terraria.ModLoader.ModContent;
 namespace ColorSwords.Items.Armors.TPUGarmor
 {
 	[AutoloadEquip(EquipType.Head)]
-	public class GreencandycanearmorH : ModItem
+	public class RedcandycanearmorH : ModItem
 	{
 		public override void SetStaticDefaults()
 		{
@@ -38,7 +38,7 @@ namespace ColorSwords.Items.Armors.TPUGarmor
 		public override void AddRecipes()
 		{
 			ModRecipe recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemID.RedCandyCaneBlock, 25);
+			recipe.AddIngredient(ItemID.CandyCaneBlock, 25);
 			recipe.AddIngredient(ModContent.ItemType<SoulOfChristmas>(), 1);
 			recipe.AddTile(TileID.Anvils);
 			recipe.SetResult(this);

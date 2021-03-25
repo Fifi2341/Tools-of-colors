@@ -11,7 +11,7 @@ namespace ColorSwords.Items.GoldPlated
 	{
 		public override void SetStaticDefaults()
 		{
-			Tooltip.SetDefault("Rip my turtle 7/11/2020 ");
+			Tooltip.SetDefault("Rip my turtle 7/11/2020 \n Fiery's dev weapon ");
 		}
 
 		public override bool Autoload(ref string name)

@@ -6,7 +6,7 @@ using ColorSwords.Projectiles;
 using System.Timers;
 using System;
 
-namespace Colorswords.Npcs.TheBigAssShield
+namespace ColorSwords.Npcs.TheBigAssShield
 {
 	[AutoloadBossHead]
 	public class TheBigAssShieldd: ModNPC

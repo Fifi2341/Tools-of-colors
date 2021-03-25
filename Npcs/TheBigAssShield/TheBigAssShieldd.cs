@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
-using TPUG.Projectiles;
+using ColorSwords.Projectiles;
 using System.Timers;
 using System;
 
@@ -215,5 +215,5 @@ namespace Colorswords.Npcs.TheBigAssShield
 			if (Math.Abs(npc.velocity.Y) > cap)
 				npc.velocity.Y = cap * Math.Sign(npc.velocity.Y);
 		}
-	}//YES IT ACTUALLY DOES NOT SUCC
+	}
 }

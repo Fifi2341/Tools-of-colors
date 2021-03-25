@@ -3,7 +3,8 @@ using Terraria;
 using Terraria.ModLoader;
 using static Terraria.ModLoader.ModContent;
 using Terraria.ID;
-using ColorSwords.TPUG_items;
+using ColorSwords.Items.TPUG_items;
+
 namespace Colorswords.Items.Armors.TPUGarmor
 {
 	[AutoloadEquip(EquipType.Legs)]

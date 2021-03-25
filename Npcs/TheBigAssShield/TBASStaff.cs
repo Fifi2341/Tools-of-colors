@@ -3,7 +3,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using ColorSwords.Tiles;
 
-namespace Colorswords.Npcs.TheBigAssShield
+namespace ColorSwords.Npcs.TheBigAssShield
 {
 	public class TBASStaff: ModItem
 	{

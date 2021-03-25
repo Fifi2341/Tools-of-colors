@@ -1,7 +1,7 @@
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using TPUG.Tiles;
+using ColorSwords.Tiles;
 
 namespace Colorswords.Npcs.TheBigAssShield
 {

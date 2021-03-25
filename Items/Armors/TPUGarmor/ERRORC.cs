@@ -4,7 +4,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using static Terraria.ModLoader.ModContent;
 
-namespace ColorSwords.Items.TPUG_items
+namespace ColorSwords.Items.TPUGarmor
 {
 	[AutoloadEquip(EquipType.Body)]
 	public class ERRORC : ModItem

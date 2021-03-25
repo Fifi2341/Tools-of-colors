@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using ColorSwords;
-using ColorSwords.Items.TPUG_Items;
+using ColorSwords.Items.TPUG_items;
 using Microsoft.Xna.Framework;
 
 namespace ColorSwords.Npcs.TPUGnpcs

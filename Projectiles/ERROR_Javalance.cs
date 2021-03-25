@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ModLoader;
 using Terraria.ID;
 
-namespace Colorswords.Projectiles
+namespace ColorSwords.Projectiles
 {
 	public class ERROR_Javalance : ModProjectile
 	{

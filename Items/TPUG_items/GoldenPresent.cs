@@ -2,9 +2,9 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using static Terraria.ModLoader.ModContent;
-using TPUG.Items;
+using ColorSwords.Items.TPUG_items;
 using System;
-using TPUG.Armor;
+using ColorSwords.Items.TPUGarmor;
 
 namespace Colorswords.Items.TPUG_items
 {

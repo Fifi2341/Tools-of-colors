@@ -5,7 +5,7 @@ using TPUG;
 using TPUG.Items;
 using Microsoft.Xna.Framework;
 
-namespace Colorswords.Npcs.TPUGnpcs
+namespace ColorSwords.Npcs.TPUGnpcs
 {
 	public class TPUGGlobalNPC : GlobalNPC
 	{

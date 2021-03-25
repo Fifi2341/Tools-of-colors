@@ -2,14 +2,14 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Colorswords.Items.TPUG_items
+namespace ColorSwords.Items.TPUG_items
 {
 	public class SuperSpewerCrim : ModItem
 	{
 		public override void SetStaticDefaults() 
 		{
-			DisplayName.SetDefault("Super Spewer™");
-			Tooltip.SetDefault("*slaps Super Spewer™* this bad boy can spew so many projectiles (gel used to power Super Spewer™ sold seperately)");
+			DisplayName.SetDefault("Super Spewerâ„¢");
+			Tooltip.SetDefault("*slaps Super Spewerâ„¢* this bad boy can spew so many projectiles (gel used to power Super Spewerâ„¢ sold seperately)");
 		}
 
 		public override void SetDefaults() 

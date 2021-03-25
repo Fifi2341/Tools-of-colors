@@ -4,6 +4,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using ColorSwords.Items.TPUG_items;
 using static Terraria.ModLoader.ModContent;
+
 namespace Colorswords.Items.Armors.TPUGarmor
 {
 	[AutoloadEquip(EquipType.Head)]

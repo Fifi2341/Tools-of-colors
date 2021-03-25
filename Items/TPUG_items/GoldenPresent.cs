@@ -6,7 +6,7 @@ using ColorSwords.Items.TPUG_items;
 using System;
 using ColorSwords.Items.TPUGarmor;
 
-namespace Colorswords.Items.TPUG_items
+namespace ColorSwords.Items.TPUG_items
 {
 	public class GoldenPresent: ModItem
 	{

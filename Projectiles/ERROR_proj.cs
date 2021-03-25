@@ -5,7 +5,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Colorswords.Projectiles
+namespace ColorSwords.Projectiles
 {
 	public class ERROR_proj : ModProjectile
 	{

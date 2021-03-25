@@ -9,8 +9,14 @@ namespace ColorSwords.Items.TPUG_items
 		public override void SetStaticDefaults() 
 		{
 			DisplayName.SetDefault("fuggin op sword"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
-			Tooltip.SetDefault("haha sword go BRRRRRRRRRR");
+			Tooltip.SetDefault("haha sword go BRRRRRRRRRR \n Polaris dev weapon");
 		}
+		
+		public override bool Autoload(ref string name)
+		{
+			return !ModContent.GetInstance<ColorSwordsConfig>().DisableDevItems;
+		}
+
 
 		public override void SetDefaults() 
 		{

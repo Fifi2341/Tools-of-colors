@@ -4,7 +4,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using Terraria.ObjectData;
-using ColorSwords.Items.TPUG_Items;
+using ColorSwords.Items.TPUG_items;
 
 namespace ColorSwords.Tiles
 {

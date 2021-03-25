@@ -1,7 +1,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace ColorsSwords.Items.TPUG_items
+namespace ColorSwords.Items.TPUG_items
 {
 	public class ERROR: ModItem
 	{

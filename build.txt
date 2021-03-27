@@ -1,6 +1,0 @@
-displayName = [i/ID:3063][c/3feb28:Tools of Colors][i/ID:3063]
-author = Fiery
-version = 1.1.2
-homepage = https://forums.terraria.org/index.php?threads/tools-of-colors-mod-forum.97057/
-hideCode = true
-buildIgnore = ignoredS
